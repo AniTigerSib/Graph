@@ -1,0 +1,6 @@
+#define SIN 's'
+#define COS 'c'
+#define TAN 't'
+#define CTG 'g'
+#define SQRT 'q'
+#define LN 'l'
